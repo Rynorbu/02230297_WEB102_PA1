@@ -57,6 +57,9 @@ The main function (requestHandler) that handles incoming HTTP requests based on 
 * patchPost: Reads the request body, updates only the specified fields of the post with the specified ID, and updates the JSON file.
 * deletePost: Removes the post with the specified ID from the array and updates the JSON file.
 
+## Error Handling
+The API handles common HTTP errors and responds with appropriate status codes and error messages. If an internal server error occurs, it returns a `500 Internal Server Error` response.
+
 ## Running the Server
 The server is created using http.createServer(requestHandler) and listens on the specified PORT. 
 
