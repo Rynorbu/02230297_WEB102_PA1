@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Journey to Phajodhing",
+    "content": "This is the content of the blog post. It is to share my experience of the journey to Phajodhing.",
+    "author": "Ranjung Yeshi Norbu",
+    "createdAt": "2023-05-01",
+    "updatedAt": "2023-05-14"
+  },
+  {
+    "id": 2,
+    "title": "Teacher day celebration",
+    "content": "This blog content is to share my experience and what we did on teacher day celebration.",
+    "author": "Yonten Raj Gurung",
+    "createdAt": "2023-04-19",
+    "updatedAt": "2023-05-11"
+  },
+  {
+    "id": 3,
+    "title": "Punakha Tsechu.",
+    "content": "This is the content of the new blog post. I am writing this blog post to share my experience of the Punakha Tsechu.",
+    "author": "Namgay Wangchuk",
+    "createdAt": "2023-04-30",
+    "updatedAt": "2023-05-15"
+  }
+]
